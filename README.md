@@ -2,8 +2,8 @@
 CS major at UFCG and member of LSI
 ##
 <div>
-  <img height="180em" align = "center" src = "https://github-readme-stats.vercel.app/api?username=ViniciusI4n&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusI4n&theme=monokai&">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ViniciusI4n&theme=transparent&include_all_commits=true&count_private=true&show_icons=true" align = "center"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusI4n&langs_count=7&theme=transparent" align = "top"/>
 </div>
 
 ---
